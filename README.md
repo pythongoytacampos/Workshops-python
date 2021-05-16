@@ -1,5 +1,6 @@
-# Workshops python
-Nesse repositório organizaremos a estrutura do conteúdo dos workshops que serão realizados para a comunidade
+# WORKSHOPS PYTHON
+Nesse repositório organizaremos a estrutura do conteúdo dos workshops que serão realizados para a comunidade.
+
 
 # 1- INTRODUÇÃO PYTHON PARTE 1
    Preparando o ambiente
