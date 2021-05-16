@@ -4,9 +4,9 @@ Nesse repositório organizaremos a estrutura do conteúdo dos workshops que ser�
 
 # 1- Introdução Python - apresentado dia 14/05/2021
    ## Parte 1
-   Preparando o ambiente
-   Números e Operações Matemáticas
-   Variáveis e Operadores
+   Preparando o ambiente<br>
+   Números e Operações Matemáticas<br>
+   Variáveis e Operadores<br>
    Strings
   ## Material Extra
   * [Documentação oficial](https://docs.python.org/3/tutorial/introduction.html)
